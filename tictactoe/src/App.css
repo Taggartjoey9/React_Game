@@ -1,0 +1,9 @@
+body {
+  background: radial-gradient(
+    circle at top,
+    rgba(241, 210, 70, 0.98),
+    rgba(250, 176, 103, 0.87)
+  ),
+  url(../public/bg-pattern-dark.png);  
+  
+}
